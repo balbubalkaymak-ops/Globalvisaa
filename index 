@@ -1,0 +1,150 @@
+<!DOCTYPE html>
+<html lang="tr">
+<head>
+    <meta charset="UTF-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+            <title>GlobalVisa – Uluslararası Vize Başvuru Platformu</title>
+                <style>
+                        body {
+                                        margin: 0;
+                                                    font-family: Arial, sans-serif;
+                                                                background: #f6f7fb;
+                                                                            color: #333;
+                        }
+                                header {
+                                                background: #004aad;
+                                                            padding: 20px;
+                                                                        color: white;
+                                                                                    text-align: center;
+                                }
+                                        .hero {
+                                                        background: url("https://placehold.co/1600x600?text=Uluslararasi+Vize+Platformu+Hero+Gorsel") center/cover no-repeat;
+                                                                    height: 450px;
+                                                                                display: flex;
+                                                                                            align-items: center;
+                                                                                                        justify-content: center;
+                                                                                                                    color: white;
+                                                                                                                                text-shadow: 0 0 10px black;
+                                                                                                                                            font-size: 36px;
+                                                                                                                                                        font-weight: bold;
+                                        }
+                                                .container {
+                                                                width: 90%;
+                                                                            max-width: 1100px;
+                                                                                        margin: auto;
+                                                                                                    padding: 40px 0;
+                                                }
+                                                        .section-title {
+                                                                        font-size: 28px;
+                                                                                    margin-bottom: 20px;
+                                                                                                text-align: center;
+                                                        }
+                                                                .trust-badges {
+                                                                                display: flex;
+                                                                                            justify-content: space-around;
+                                                                                                        flex-wrap: wrap;
+                                                                                                                    margin-top: 20px;
+                                                                }
+                                                                        .trust-badges img {
+                                                                                        width: 250px;
+                                                                                                    margin: 15px;
+                                                                                                                border-radius: 10px;
+                                                                        }
+                                                                                form {
+                                                                                                background: white;
+                                                                                                            padding: 25px;
+                                                                                                                        border-radius: 10px;
+                                                                                                                                    box-shadow: 0 0 10px #ccc;
+                                                                                                                                                max-width: 600px;
+                                                                                                                                                            margin: auto;
+                                                                                }
+                                                                                        input, select, button {
+                                                                                                        width: 100%;
+                                                                                                                    padding: 12px;
+                                                                                                                                margin-top: 10px;
+                                                                                                                                            border-radius: 5px;
+                                                                                                                                                        border: 1px solid #bbb;
+                                                                                        }
+                                                                                                button {
+                                                                                                                background: #004aad;
+                                                                                                                            color: white;
+                                                                                                                                        cursor: pointer;
+                                                                                                                                                    font-weight: bold;
+                                                                                                }
+                                                                                                        footer {
+                                                                                                                        margin-top: 40px;
+                                                                                                                                    background: #002d66;
+                                                                                                                                                padding: 20px;
+                                                                                                                                                            color: white;
+                                                                                                                                                                        text-align: center;
+                                                                                                        }
+                                                                                                            </style>
+                                                                                                            </head>
+                                                                                                            <body>
+
+                                                                                                            <header>
+                                                                                                                <h1>GlobalVisa – Güvenilir Uluslararası Vize Başvuru Sistemi</h1>
+                                                                                                                </header>
+
+                                                                                                                <div class="hero">
+                                                                                                                    Dünyanın Her Yerine Güvenli Vize Başvurusu
+                                                                                                                    </div>
+
+                                                                                                                    <div class="container">
+                                                                                                                        <h2 class="section-title">Neden Dünya Çapında Güveniliyoruz?</h2>
+
+                                                                                                                            <p style="text-align:center;">
+                                                                                                                                    Platformumuz 120+ ülkede kullanılan, milyonlarca başvuruya aracılık eden 
+                                                                                                                                            uluslararası onaylı bir sistemdir.
+                                                                                                                                                </p>
+
+                                                                                                                                                    <div class="trust-badges">
+                                                                                                                                                            <img src="https://placehold.co/300x200?text=International+Success+Badge+1" alt="Success Badge">
+                                                                                                                                                                    <img src="https://placehold.co/300x200?text=Global+Trust+Certificate" alt="Certificate">
+                                                                                                                                                                            <img src="https://placehold.co/300x200?text=Partnered+with+100%2B+Embassies" alt="Embassy Partners">
+                                                                                                                                                                                </div>
+                                                                                                                                                                                </div>
+
+                                                                                                                                                                                <div class="container">
+                                                                                                                                                                                    <h2 class="section-title">Vize Başvuru Formu</h2>
+
+                                                                                                                                                                                        <form>
+                                                                                                                                                                                                <label>Ad Soyad</label>
+                                                                                                                                                                                                        <input type="text" required>
+
+                                                                                                                                                                                                                <label>Email</label>
+                                                                                                                                                                                                                        <input type="email" required>
+
+                                                                                                                                                                                                                                <label>Hangi Ülkeye Vize Başvurusu Yapıyorsunuz?</label>
+                                                                                                                                                                                                                                        <select required>
+                                                                                                                                                                                                                                                    <option>ABD</option>
+                                                                                                                                                                                                                                                                <option>Kanada</option>
+                                                                                                                                                                                                                                                                            <option>İngiltere</option>
+                                                                                                                                                                                                                                                                                        <option>Almanya</option>
+                                                                                                                                                                                                                                                                                                    <option>Japonya</option>
+                                                                                                                                                                                                                                                                                                            </select>
+
+                                                                                                                                                                                                                                                                                                                    <label>Pasaport Numaranız</label>
+                                                                                                                                                                                                                                                                                                                            <input type="text" required>
+
+                                                                                                                                                                                                                                                                                                                                    <button type="submit">Başvuruyu Gönder</button>
+                                                                                                                                                                                                                                                                                                                                        </form>
+                                                                                                                                                                                                                                                                                                                                        </div>
+
+                                                                                                                                                                                                                                                                                                                                        <footer>
+                                                                                                                                                                                                                                                                                                                                            GlobalVisa © 2025 – Uluslararası vize başvuru platformu
+                                                                                                                                                                                                                                                                                                                                            </footer>
+
+                                                                                                                                                                                                                                                                                                                                            </body>
+                                                                                                                                                                                                                                                                                                                                            </html>
+                                                                                                        }
+                                                                                                }
+                                                                                        }
+                                                                                }
+                                                                        }
+                                                                }
+                                                        }
+                                                }
+                                        }
+                                }
+                        }
